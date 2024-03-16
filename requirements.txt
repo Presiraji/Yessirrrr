@@ -1,0 +1,13 @@
+yfinance
+pandas
+numpy
+matplotlib
+scikit-learn
+statsmodels
+pmdarima
+plotly
+datetime
+reportlab
+streamlit
+datetime
+kaleido
